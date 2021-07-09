@@ -1,0 +1,135 @@
+[
+    {
+        "name":"Anjali",
+        "team": "XPO",
+        "pic":"anjali.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Deepak",
+        "team": "XPO",
+        "pic":"deepak.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Ajaz",
+        "team": "XPO",
+        "pic":"ajaz.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Allwin",
+        "team": "XPO",
+        "pic":"allwin.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Antony",
+        "team": "XPO",
+        "pic":"antony.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Anu",
+        "team": "XPO",
+        "pic":"anu.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Anu",
+        "team": "XPO",
+        "pic":"anu.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Anub",
+        "team": "XPO",
+        "pic":"anub.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Arun",
+        "team": "XPO",
+        "pic":"arun.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Binila",
+        "team": "XPO",
+        "pic":"binila.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Divakar",
+        "team": "XPO",
+        "pic":"divakar.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Jackson",
+        "team": "XPO",
+        "pic":"jackson.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Jeffrin",
+        "team": "XPO",
+        "pic":"jeffrin.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Manisha",
+        "team": "XPO",
+        "pic":"manisha.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Priyanka",
+        "team": "XPO",
+        "pic":"priyanka.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Rajasekar",
+        "team": "XPO",
+        "pic":"rajasekar.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Ravi",
+        "team": "XPO",
+        "pic":"ravi.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Sadik",
+        "team": "XPO",
+        "pic":"sadik.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Shivani",
+        "team": "XPO",
+        "pic":"shivani.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Sowmya",
+        "team": "XPO",
+        "pic":"sowmya.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Vani",
+        "team": "XPO",
+        "pic":"vani.jpeg",
+        "description": ""
+    },
+    {
+        "name":"Vishnu",
+        "team": "XPO",
+        "pic":"vishnu.jpeg",
+        "description": ""
+    }
+
+]

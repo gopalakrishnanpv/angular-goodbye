@@ -1,0 +1,12 @@
+
+<div class="center" *ngIf=isLoading>
+    <mat-progress-spinner diameter=50 
+	                      mode="indeterminate"
+						  color="white">
+	</mat-progress-spinner> 
+</div>
+<div class="container" *ngIf="!isLoading">
+<app-navbar ></app-navbar>
+<app-bubble-image [fileUploads]="fileUploads"></app-bubble-image>
+<app-flipbook></app-flipbook>
+</div>

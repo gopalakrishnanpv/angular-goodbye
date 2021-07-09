@@ -1,0 +1,8 @@
+
+<div id="background-wrap">
+  <ul>
+    <li *ngFor="let collegue of fileUploads; let i = index">
+      <img [src]="collegue.url" (click)="animateMe(i)" [ngClass]="clickedIndex == i ? 'imgclick' : 'img'"/>
+    </li>
+  </ul>
+</div>
